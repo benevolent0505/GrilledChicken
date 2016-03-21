@@ -57,6 +57,9 @@ project/plugins/project/
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
+# ignore .idea directory
+.idea/
+
 # JIRA plugin
 atlassian-ide-plugin.xml
 
